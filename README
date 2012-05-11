@@ -1,5 +1,9 @@
-                        C O M P    G E O M
-                    ==========================
+                C O M P U T A T I O N A L    G E O M E T R Y
+            ======================================================
 
 This project is my attempt to implement some of the cool algorithms that I
-am learning about in a class on Computational Geometry @ Illinois. 
+learnt about in a class on Computational Geometry @ Illinois.
+Note that this is mostly for my reference and learning. The purpose of making
+it available was mostly to provide the most simplistic implementation using
+python.If you are looking for professional quality computational geometry 
+software, then checkout CGAL (http://www.cgal.org/)
